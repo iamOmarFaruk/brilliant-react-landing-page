@@ -1,0 +1,31 @@
+/* FooterCredit.module.css */
+.container {
+  /* Add your container styles here */
+}
+
+.credits {
+  padding-top: 5px;
+  font-size: 13px;
+  color: #444444;
+}
+
+.social-links a {
+  font-size: 18px;
+  display: inline-block;
+  background: #e43c5c;
+  color: #fff;
+  line-height: 1;
+  padding: 8px 0;
+  margin-right: 4px;
+  border-radius: 50%;
+  text-align: center;
+  width: 36px;
+  height: 36px;
+  transition: 0.3s;
+}
+
+.social-links a:hover {
+  background: #d01d3f;
+  color: #fff;
+  text-decoration: none;
+}
